@@ -7,4 +7,8 @@ An Author Response Template that features:
 
 Based on @mschroen's [review_response_letter](https://github.com/mschroen/review_response_letter). 
 
-![](.\example.jpg)
+See exmaple [pdf](Author_response_template.pdf).
+
+![](Author_response_template_1.jpg)
+
+![](Author_response_template_2.jpg)
